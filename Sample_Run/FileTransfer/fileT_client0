@@ -1,0 +1,12 @@
+jg3527@nassau:~/Desktop/Client0$ java DV client0.txt
+showrt
+2015/05/09 18:30:41 Distance vector list is:
+Destination = 128.59.15.70:30053, Cost = 10.0, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30052, Cost = 15.0, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30051, Cost = 5.0, Link = (128.59.15.70:30051)
+transfer /home/jg3527/Desktop/CN2/DV.txt 128.59.15.70 30051
+Next hop = 128.59.15.70:30051
+File sent successfully.
+transfer /home/jg3527/Desktop/CN2/DV.txt 128.59.15.70 30052
+Next hop = 128.59.15.70:30051
+File sent successfully.

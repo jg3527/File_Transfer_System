@@ -1,0 +1,38 @@
+jg3527@nassau:~/Desktop/Client2$ java DV client2.txt
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+File received successfully
+

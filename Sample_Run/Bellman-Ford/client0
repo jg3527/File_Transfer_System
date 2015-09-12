@@ -1,0 +1,38 @@
+Client 0
+=========
+2015/05/09 18:16:06 Distance vector list is:
+Destination = 128.59.15.70:30053, Cost = 10.0, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30052, Cost = 15.0, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30051, Cost = 5.0, Link = (128.59.15.70:30051)
+linkdown 128.59.15.70 30051
+Linkdown finished.
+showrt
+2015/05/09 18:17:48 Distance vector list is:
+Destination = 128.59.15.70:30053, Cost = 30.0, Link = (128.59.15.70:30053)
+Destination = 128.59.15.70:30052, Cost = 45.0, Link = (128.59.15.70:30053)
+Destination = 128.59.15.70:30051, Cost = 35.0, Link = (128.59.15.70:30053)
+linkup 128.59.15.70 30051
+Linkup finished.
+showrt
+2015/05/09 18:18:33 Distance vector list is:
+Destination = 128.59.15.70:30053, Cost = 10.0, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30052, Cost = 15.0, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30051, Cost = 5.0, Link = (128.59.15.70:30051)
+changecost 128.59.15.70 30051 60
+showrt
+2015/05/09 18:19:17 Distance vector list is:
+Destination = 128.59.15.70:30053, Cost = 30.0, Link = (128.59.15.70:30053)
+Destination = 128.59.15.70:30052, Cost = 45.0, Link = (128.59.15.70:30053)
+Destination = 128.59.15.70:30051, Cost = 35.0, Link = (128.59.15.70:30053)
+showrt
+2015/05/09 18:20:57 Distance vector list is:
+Destination = 128.59.15.70:30053, Cost = 30.0, Link = (128.59.15.70:30053)
+Destination = 128.59.15.70:30052, Cost = 45.0, Link = (128.59.15.70:30053)
+Destination = 128.59.15.70:30051, Cost = 35.0, Link = (128.59.15.70:30053)
+showrt
+2015/05/09 18:21:42 Distance vector list is:
+Destination = 128.59.15.70:30053, Cost = 30.0, Link = (128.59.15.70:30053)
+Destination = 128.59.15.70:30052, Cost = Infinity, Link = (128.59.15.70:30053)
+Destination = 128.59.15.70:30051, Cost = Infinity, Link = (128.59.15.70:30053)
+
+

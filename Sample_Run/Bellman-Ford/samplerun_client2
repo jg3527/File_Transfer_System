@@ -1,0 +1,27 @@
+jg3527@nassau:~/Desktop/Client2$ java DV client2.txt
+showrt
+2015/05/09 18:16:13 Distance vector list is:
+Destination = 128.59.15.70:30053, Cost = 15.0, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30051, Cost = 10.0, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30050, Cost = 15.0, Link = (128.59.15.70:30051)
+showrt
+2015/05/09 18:18:08 Distance vector list is:
+Destination = 128.59.15.70:30053, Cost = 15.0, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30051, Cost = 10.0, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30050, Cost = 45.0, Link = (128.59.15.70:30051)
+showrt
+2015/05/09 18:18:41 Distance vector list is:
+Destination = 128.59.15.70:30053, Cost = 15.0, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30051, Cost = 10.0, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30050, Cost = 15.0, Link = (128.59.15.70:30051)
+showrt
+2015/05/09 18:19:28 Distance vector list is:
+Destination = 128.59.15.70:30053, Cost = 15.0, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30051, Cost = 10.0, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30050, Cost = 45.0, Link = (128.59.15.70:30051)
+showrt
+2015/05/09 18:21:51 Distance vector list is:
+Destination = 128.59.15.70:30053, Cost = Infinity, Link = (128.59.15.70:30053)
+Destination = 128.59.15.70:30051, Cost = Infinity, Link = (128.59.15.70:30051)
+Destination = 128.59.15.70:30050, Cost = Infinity, Link = (128.59.15.70:30050)
+

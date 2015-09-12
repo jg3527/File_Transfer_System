@@ -1,0 +1,80 @@
+jg3527@nassau:~/Desktop/Client1$ java DV client1.txt
+showrt
+2015/05/09 18:22:35 Distance vector list is:
+Destination = 128.59.15.70:30053, Cost = 5.0, Link = (128.59.15.70:30053)
+Destination = 128.59.15.70:30052, Cost = 10.0, Link = (128.59.15.70:30052)
+Destination = 128.59.15.70:30050, Cost = 5.0, Link = (128.59.15.70:30050)
+jg3527@nassau:~/Desktop/Client1$ java DV client1.txt
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30051
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30051
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30051
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30051
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30051
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30051
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30051
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30051
+File fragment reaches the destination.
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30051
+File received successfully
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+Next hop = 128.59.15.70:30052
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+Next hop = 128.59.15.70:30052
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+Next hop = 128.59.15.70:30052
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+Next hop = 128.59.15.70:30052
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+Next hop = 128.59.15.70:30052
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+Next hop = 128.59.15.70:30052
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+Next hop = 128.59.15.70:30052
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+Next hop = 128.59.15.70:30052
+Packet received
+Source = 128.59.15.70:30050
+Destination = 128.59.15.70:30052
+Next hop = 128.59.15.70:30052
+
